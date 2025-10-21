@@ -1,2 +1,3 @@
-# devops-sandbox
-My first DevOps practice repo
+# DevOps Sandbox
+This is my first Git practice repository.
+
